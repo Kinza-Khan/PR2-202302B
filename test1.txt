@@ -1,0 +1,15 @@
+which command use to configure the email?
+which command use for create a new branch? x
+which command use for check remote repositery?
+how to add remote repositery?
+which command is use for checking the states of file?
+which command is use for check the history of previous version of files?
+which commad is use to save the file in local Repositery?
+
+git config --global user.email 'kinzaaptech@gmail.com'
+git branch kinzaBranch
+git remote
+git remote add origin https:/ac.git
+git status
+git log --oneline
+git commit -m 'finalCommit'
